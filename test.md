@@ -1,1 +1,0 @@
-# WACC repository test
