@@ -1,4 +1,4 @@
-# “Investment and the WACC: Firm-Level Evidence from France”
+## “Investment and the WACC: Firm-Level Evidence from France”
 with *Juan Carluccio* and *Jean-Stéphane Mésonnier* (Banque de France Working Paper Nr 710, 2018)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
