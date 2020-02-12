@@ -1,9 +1,9 @@
 # “Investment and the WACC: Firm-Level Evidence from France”
 with *Juan Carluccio* and *Jean-Stéphane Mésonnier* (Banque de France Working Paper Nr 710, 2018)
 
-**Abstract** : We exploit a new dataset of consolidated balance sheets for some 1,850 private French corporate groups, in order to investigate the relationship between corporate investment and the cost of capital. We notably construct firm-level measures of the weighted average cost of capital (WACC) that account for industry-specific values of the cost of equity and reflect the actual capital structure of firms. We find that a high WACC drags down investment: a one SD increase in the real WACC (+2 pp) is associated on average with a reduction by 0.65 pp in the investment rate. 
-
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+# To download the dataset, click on the *Clone or download* green button and select Download *ZIP*
 
 The stata data file data_CMSM_COE_WACC_A38_2003_2015.dta presents sector-year level meaures for 2003-2015 of the Cost of Equity and the WACC for French private firms used in the paper "Investment and the WACC: new micro evidence for France" 
 
