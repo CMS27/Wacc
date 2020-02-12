@@ -3,7 +3,9 @@ with *Juan Carluccio* and *Jean-Stéphane Mésonnier* (Banque de France Working 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-### To download the dataset, click on the `Clone or download` green button and select `Download ZIP`
+### To download the dataset, click on the `Clone or download` green button and select `Download ZIP` <br/>
+
+
 
 The stata data file `data_CMSM_COE_WACC_A38_2003_2015.dta` presents **sector-year level meaures for 2003-2015 of the Cost of Equity and the WACC for French private firms** used in the paper "Investment and the WACC: new micro evidence for France" 
 
